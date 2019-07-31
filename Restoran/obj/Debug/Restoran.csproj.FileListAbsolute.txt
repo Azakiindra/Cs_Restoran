@@ -1,0 +1,16 @@
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\bin\Debug\Restoran.exe.config
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\bin\Debug\Restoran.exe
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\bin\Debug\Restoran.pdb
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.csprojResolveAssemblyReference.cache
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.Form1.resources
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.home1.resources
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.home2.resources
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.iniFoods.resources
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.iniHome.resources
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.Cache
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.exe
+D:\asal\projectvisualstudio\ClrProject\ClrCS\Projectku\Restoran\Restoran\obj\Debug\Restoran.pdb
